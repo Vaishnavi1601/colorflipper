@@ -3,7 +3,7 @@ const btn = document.getElementById('btn');
 const color = document.querySelector(".color");
 
 btn.addEventListener('click', function(){
-//get random number between 0-3 (since array have 4 values)
+
 
     const randomNumber = getRandomNumber();
 
